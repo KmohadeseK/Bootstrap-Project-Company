@@ -1,0 +1,174 @@
+1_ display-1 ==> for "h" tags
+
+2_ lead , text-truncate ==> bold & cuting long text ...
+
+3_ font-weight-bold,normal ==> any model texts 
+
+4_ list-unstyled ==> unstyled inside li's
+
+5_ list-inline ==> inline items
+(li ==> class="list-inline-item")
+
+6_ text-justify ==> por kardan jahaye empty
+
+7_ text-sm-center , text-md-left ,
+text-lg-left , text-xl-left ==> responsive text item
+
+8_ d-inline , d-block , d-inline-block
+ ==> inline-block & inline and block items
+
+9_ border border-primary ==> ok
+
+10_ bg-warning ==> background color
+
+11_ float-sm-left ==> responsive by float
+
+12_ rounded ==> border rediuses
+
+13_ clearfix ==> ?? float? traz kardan item ha
+ when add float-left or right 
+
+14_ fixed-top and bottom // "sticky-top" ==> when scorlling and
+  residan be item morde nazar an ra fix mikonad
+
+15_ mt-0,1,2,3,4,5 ==> margin-top
+    mb-0,1,2,3,4,5 ==> margin-bottom
+    ml-0,1,2,3,4,5 ==> margin-left
+    mr-0,1,2,3,4,5 ==> margin-right
+
+16_ mx & my ==> margin X ,
+margin Y 
+
+17_ p-2 ==> around padding all
+
+18_ pl;pr;pt;pb ==> 
+padding properties 
+
+19_ w-50 ==> width percent %
+
+20_ h-50 ==> height percent %
+
+21_ Btn btn-sm , btn-lg ==> small and large buttons 
+
+22_ Btn btn-outline-primary ==>
+primary color & add border 
+
+23_ btn-block ==> blocked button
+
+24_ Btn active ==> activity button
+
+25_ Btn disabled ==> disable button
+
+26_ btn-group ==> group bandi buttons
+
+27_ btn-toolbar(btn-group) ==> parent btn-group
+
+28_ btn-group-vertical ==> az up ta down moratab mikonad (amodi)
+
+29_ dropdown , btn=> data-toggle="dropdown class="dropdown-toggle" 
+==> dropdown-menu (parent) => dropdown-item (children)
+
+30_ dropdown-divider ==> added bordear top in dropdown-item ( WOW )
+
+32_  navbar-expand-sm ==> create responsive nav ;
+
+navbar-light => color item nav ;
+
+navbar-brand => black color and big size (title a) ;
+
+navbar-nav => unstyled li's add to class ul parent ;
+
+navbar-item => li classes OR item to ul ;
+
+nav-link => link address . exaple --> <a></a> ;
+
+33_ navbar-toggler ==> responsive for mobile 
+
+34_ list-group (parent) & list-group-item(children) ==> create list
+
+35_ list-group-item-primary (color)
+
+36_ list-group-flush (parent) ==> under border for list
+
+37_ badge badge-primary ==> example -> small notif & text
+
+38 breadcrumb (parent) & breadcrumb-item ==> title & headers link
+
+39_ form-group(parent) , input-> form-control ==> create form
+
+40_ form-control-lg , sm ==> large & small input form
+
+41_ form-inline ==> ok
+
+42_ is-valid ==> when not empty inpute and currect value
+
+43_ is-invalid ==> when empty inpute and inValid value
+
+44_ input-group-append , input-group-prepend ==> used to input group
+for flexing btn & input
+
+45_ input-group  , input-group-text(for text link) ==> 
+create flex input group 
+
+46_ alert alert-primary ==> show and create alerts with fevorite color
+
+47_ progress , progress-bar(W%) ==> ok
+
+48_ progress-bar-striped ==> navar rah rah 
+
+49_ progress-bar-animated ==> animation bar .
+
+50_ tabel 's ==> amazing style for styling tabels
+
+51_ pagination ==>  safhe bandi good (page number)
+
+52_ card , card-body ==> create card's 
+
+53_ nav-tabs , card-header-tabs ==> header item link for tab cards
+
+54_ card-group ==> responsive card groups
+
+55_ card-deck ==> space between card item
+
+56_ media ==> create media titer
+
+57_ jumbotron ==> big tv! (lg box)
+
+58_ jumbotron-fluid(parent) , container(child) ==> OK
+
+59_ row -> col-(sm , md , lg , xl)-12 ==> responsive container's 2 number 
+ ke plus beshe = 12 Ex --> 6 + 6 = 12 / 3 + 9 = 12 / 8 + 4 = 12 ,...
+
+60_ col-sm ==> responsive for mobile
+
+61_ col order-(number of item container row's)  ==> instead of
+ one number to one number 
+
+62_ offset ==> ok
+
+63_ col (align-self-start) , row (align-items-start) ==> yeah!
+
+64_ no gutters ==> no space between & arounded div's
+
+65_ row-dev , item-dev ==> ok but ->
+d-flex flex-row & reverse ==> flexibale item and container's
+| d-flex justify-content-(end,start,center) | flex-column, 
+justify-content-around,between
+
+67_ align-items-start , align-self-start 
+
+68_ collapse  ==> show & hide menu text (WoW)
+
+69_ accordion ==> nice  collapse menu ...
+
+70_ Modal show ==> okkkk
+
+71_ data-dismiss="" ==> close btn modal 
+
+72_ offcanvas ==> Sidebar .
+
+73_ offcanvas-(end,start,top,bottom) ==> end-> right / start-> left
+
+top-> up / bottom-> down or footer show.
+
+74_  ==> 
