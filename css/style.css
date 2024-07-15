@@ -60,14 +60,14 @@ body {
 }
 
 .border-purple{
-    border:1px solid rgb(205, 152, 255);
+    border:2px solid rgb(205, 152, 255);
 cursor: pointer;
 }
 
 .border-purple:hover{
     background-color: rgb(153, 59, 240);
     transition: 0.3s;
-    border:1px solid rgb(153, 59, 240);
+    border:2px solid rgb(153, 59, 240);
 }
 
 .poster-class{
